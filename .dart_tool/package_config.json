@@ -179,10 +179,10 @@
       "name": "video_player",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "2.17"
     }
   ],
-  "generated": "2023-10-18T10:53:01.314951Z",
+  "generated": "2023-10-18T11:01:18.622620Z",
   "generator": "pub",
   "generatorVersion": "3.1.2"
 }
